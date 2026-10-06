@@ -1,0 +1,15 @@
+--> keywords
+--> identfiers
+--> rules of identifiers
+--> constant
+--> types of constant
+--> variable
+--> datatypes
+--> declaration
+--> declaration vs initialization
+--> assigning value
+--> difference between = and ==
+--> defining symbolic constant
+--> #define
+--> const
+--> difference between #define and const
